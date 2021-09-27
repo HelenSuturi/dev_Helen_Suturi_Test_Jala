@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Assessment/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Assessment.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Assessment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assessment/1.0.0": {
+      "type": "project",
+      "path": "../Assessment/Assessment.csproj",
+      "msbuildProject": "../Assessment/Assessment.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Assessment >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Blade-Liger\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Blade-Liger\\source\\repos\\dev-program-assessment\\AssessmentConsole\\AssessmentConsole.csproj",
+      "projectName": "AssessmentConsole",
+      "projectPath": "C:\\Users\\Blade-Liger\\source\\repos\\dev-program-assessment\\AssessmentConsole\\AssessmentConsole.csproj",
+      "packagesPath": "C:\\Users\\Blade-Liger\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Blade-Liger\\source\\repos\\dev-program-assessment\\AssessmentConsole\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Blade-Liger\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {
+            "C:\\Users\\Blade-Liger\\source\\repos\\dev-program-assessment\\Assessment\\Assessment.csproj": {
+              "projectPath": "C:\\Users\\Blade-Liger\\source\\repos\\dev-program-assessment\\Assessment\\Assessment.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

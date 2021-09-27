@@ -1,0 +1,17 @@
+C:\Users\Blade-Liger\Source\Repos\dev-program-assessment\AssessmentConsole\bin\Debug\netcoreapp3.1\AssessmentConsole.exe
+C:\Users\Blade-Liger\Source\Repos\dev-program-assessment\AssessmentConsole\bin\Debug\netcoreapp3.1\AssessmentConsole.deps.json
+C:\Users\Blade-Liger\Source\Repos\dev-program-assessment\AssessmentConsole\bin\Debug\netcoreapp3.1\AssessmentConsole.runtimeconfig.json
+C:\Users\Blade-Liger\Source\Repos\dev-program-assessment\AssessmentConsole\bin\Debug\netcoreapp3.1\AssessmentConsole.runtimeconfig.dev.json
+C:\Users\Blade-Liger\Source\Repos\dev-program-assessment\AssessmentConsole\bin\Debug\netcoreapp3.1\AssessmentConsole.dll
+C:\Users\Blade-Liger\Source\Repos\dev-program-assessment\AssessmentConsole\bin\Debug\netcoreapp3.1\AssessmentConsole.pdb
+C:\Users\Blade-Liger\Source\Repos\dev-program-assessment\AssessmentConsole\bin\Debug\netcoreapp3.1\Assessment.dll
+C:\Users\Blade-Liger\Source\Repos\dev-program-assessment\AssessmentConsole\bin\Debug\netcoreapp3.1\Assessment.pdb
+C:\Users\Blade-Liger\Source\Repos\dev-program-assessment\AssessmentConsole\obj\Debug\netcoreapp3.1\AssessmentConsole.csproj.AssemblyReference.cache
+C:\Users\Blade-Liger\Source\Repos\dev-program-assessment\AssessmentConsole\obj\Debug\netcoreapp3.1\AssessmentConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blade-Liger\Source\Repos\dev-program-assessment\AssessmentConsole\obj\Debug\netcoreapp3.1\AssessmentConsole.AssemblyInfoInputs.cache
+C:\Users\Blade-Liger\Source\Repos\dev-program-assessment\AssessmentConsole\obj\Debug\netcoreapp3.1\AssessmentConsole.AssemblyInfo.cs
+C:\Users\Blade-Liger\Source\Repos\dev-program-assessment\AssessmentConsole\obj\Debug\netcoreapp3.1\AssessmentConsole.csproj.CoreCompileInputs.cache
+C:\Users\Blade-Liger\Source\Repos\dev-program-assessment\AssessmentConsole\obj\Debug\netcoreapp3.1\AssessmentConsole.csproj.CopyComplete
+C:\Users\Blade-Liger\Source\Repos\dev-program-assessment\AssessmentConsole\obj\Debug\netcoreapp3.1\AssessmentConsole.dll
+C:\Users\Blade-Liger\Source\Repos\dev-program-assessment\AssessmentConsole\obj\Debug\netcoreapp3.1\AssessmentConsole.pdb
+C:\Users\Blade-Liger\Source\Repos\dev-program-assessment\AssessmentConsole\obj\Debug\netcoreapp3.1\AssessmentConsole.genruntimeconfig.cache

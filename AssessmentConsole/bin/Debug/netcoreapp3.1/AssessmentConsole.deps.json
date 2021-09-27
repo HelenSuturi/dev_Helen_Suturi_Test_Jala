@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AssessmentConsole/1.0.0": {
+        "dependencies": {
+          "Assessment": "1.0.0"
+        },
+        "runtime": {
+          "AssessmentConsole.dll": {}
+        }
+      },
+      "Assessment/1.0.0": {
+        "runtime": {
+          "Assessment.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssessmentConsole/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Assessment/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Blade-Liger\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Blade-Liger\\.nuget\\packages"
+    ]
+  }
+}
